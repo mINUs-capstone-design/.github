@@ -1,4 +1,6 @@
-## team mINUs ( 메인 설명 및 깃허브 블로그 안내 페이지 설명에 추가 예정)
+# TEAM mINUs 
+
+### 개발 블로그 : https://minus-capstone-design.github.io/
 
 <!--
 
