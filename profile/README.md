@@ -1,7 +1,7 @@
 # TEAM mINUs 
 
 ### 개발 블로그 : https://minus-capstone-design.github.io/
-#### 주제 신청서 : https://github.com/mINUs-capstone-design/application-form/blob/9edc332550a68196059ed92dae1f84ca726eed9e/Team%20mINUs%20-%20%EC%A3%BC%EC%A0%9C%20%EC%8B%A0%EC%B2%AD%EC%84%9C.pdf
+#### 주제 신청서 : Team mINUs - 주제 신청서.pdf
 
 <!--
 
