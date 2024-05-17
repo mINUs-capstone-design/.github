@@ -4,6 +4,10 @@
 #### 주제신청서 : [@링크](https://github.com/mINUs-capstone-design/application-form/blob/cdf3024889d638a528b51fc893334a6e1d7e4295/%5BmINUs%5D-%EC%A3%BC%EC%A0%9C%20%EC%84%A0%EC%A0%95%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 #### 중간발표 자료 : [@링크](https://github.com/mINUs-capstone-design/application-form/blob/8b399983f7f5f1971a5d8bf9cf87bc8175b9c788/team_mINUS_midterm.pptx)  ( Web :  [@링크](https://www.canva.com/design/DAGEgjfRtnE/bSOXM52JEBv6pX0IXzKsWg/edit?utm_content=DAGEgjfRtnE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) )
+
+#### 5-17 진행상황 및 데모영상 : 
+[@링크](https://youtu.be/j6r75fT2zjI)
+[@링크](https://youtu.be/YPjes92n7gc)
 <!--
 
 **Here are some ideas to get you started:**
