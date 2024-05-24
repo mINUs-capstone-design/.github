@@ -9,7 +9,7 @@
 ##### 진행상황 영상 : https://youtu.be/j6r75fT2zjI
 ##### 데모 영상 : https://youtu.be/YPjes92n7gc
 
-### 중간발표 자료(05-24) :[@링크](https://github.com/mINUs-capstone-design/application-form/blob/main/team_mINUs_capstone%20middle%200524.pdf)   (web : [@링크](https://www.canva.com/design/DAGGA8CNgFk/dzC69mSsDJGEo1DYre543Q/edit?utm_content=DAGGA8CNgFk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+#### 중간발표 자료(05-24) :[@링크](https://github.com/mINUs-capstone-design/application-form/blob/main/team_mINUs_capstone%20middle%200524.pdf)   (web : [@링크](https://www.canva.com/design/DAGGA8CNgFk/dzC69mSsDJGEo1DYre543Q/edit?utm_content=DAGGA8CNgFk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 <!--
 
 **Here are some ideas to get you started:**
