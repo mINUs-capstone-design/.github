@@ -12,7 +12,7 @@
 #### 중간발표 자료(05-24) :[@링크](https://github.com/mINUs-capstone-design/application-form/blob/main/team_mINUs_capstone%20middle%200524.pdf)   (web : [@링크](https://www.canva.com/design/DAGGA8CNgFk/dzC69mSsDJGEo1DYre543Q/edit?utm_content=DAGGA8CNgFk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 #### 5-31 진행상황 주간 발표
-##### 발표영상(링크) : [@링크](이 부분에 넣어주세요)
+##### 발표영상(링크) : [@링크](https://www.youtube.com/watch?v=8oP74PdGedA)
 
 
 <!--
