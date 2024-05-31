@@ -5,14 +5,13 @@
 
 #### 중간발표 자료 : [@링크](https://github.com/mINUs-capstone-design/application-form/blob/8b399983f7f5f1971a5d8bf9cf87bc8175b9c788/team_mINUS_midterm.pptx)  ( Web :  [@링크](https://www.canva.com/design/DAGEgjfRtnE/bSOXM52JEBv6pX0IXzKsWg/edit?utm_content=DAGEgjfRtnE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) )
 
-#### 5-17 진행상황 및 데모영상
+#### 5-17 진행상황 주간발표
 ##### 진행상황 영상 : https://youtu.be/j6r75fT2zjI
 ##### 데모 영상 : https://youtu.be/YPjes92n7gc
 
 #### 중간발표 자료(05-24) :[@링크](https://github.com/mINUs-capstone-design/application-form/blob/main/team_mINUs_capstone%20middle%200524.pdf)   (web : [@링크](https://www.canva.com/design/DAGGA8CNgFk/dzC69mSsDJGEo1DYre543Q/edit?utm_content=DAGGA8CNgFk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 #### 5-31 진행상황 주간 발표
-##### 발표 영상 : 
 ##### 발표영상(링크) : 
 
 
