@@ -1,6 +1,7 @@
 # TEAM mINUs 
 
 ### 개발 블로그 : https://minus-capstone-design.github.io/
+### 팀 notion : https://heavenly-porch-f6d.notion.site/2024-team-mINUs-4ba851b0a8bc4910a7ffcde15b0c9c90?pvs=4
 #### 주제신청서 : [@링크](https://github.com/mINUs-capstone-design/application-form/blob/cdf3024889d638a528b51fc893334a6e1d7e4295/%5BmINUs%5D-%EC%A3%BC%EC%A0%9C%20%EC%84%A0%EC%A0%95%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 #### 중간발표 자료 : [@링크](https://github.com/mINUs-capstone-design/application-form/blob/8b399983f7f5f1971a5d8bf9cf87bc8175b9c788/team_mINUS_midterm.pptx)  ( Web :  [@링크](https://www.canva.com/design/DAGEgjfRtnE/P5yIrYb2LbvviCMjUS1DxQ/view?utm_content=DAGEgjfRtnE&utm_campaign=designshare&utm_medium=link&utm_source=editor) )
