@@ -14,7 +14,7 @@
 #### 5-31 진행상황 주간 발표
 ##### 발표영상(링크) : [@링크](https://www.youtube.com/watch?v=8oP74PdGedA)
 
-### 6-14 최종발표 자료 : [@링크](https://github.com/mINUs-capstone-design/Source_Code/blob/11e963d903c5746cd71e98bd41c9e8e66366679c/team_mINUs_final.pptx)
+### 6-14 최종발표 자료 : [@링크](https://github.com/mINUs-capstone-design/Source_Code/blob/11e963d903c5746cd71e98bd41c9e8e66366679c/team_mINUs_final.pptx) ( Web : [@링크](https://www.canva.com/design/DAGHsrOOWT8/gVEuwOZLuFL4J9LXWTFVTw/view?utm_content=DAGHsrOOWT8&utm_campaign=designshare&utm_medium=link&utm_source=editor) )
 
 
 <!--
